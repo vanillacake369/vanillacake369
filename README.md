@@ -1,8 +1,8 @@
 ## To Make Better Tommorow 👨‍💻
 <div align=center>
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvanillacake369&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
-  [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 </div>
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Things I Code With
 <p>
@@ -33,7 +33,7 @@
   <a href="https://twitter.com/tonyluvvanilla" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="mailto:lonelynight1026@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="mailto:lonelynight1026@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.facebook.com/profile.php?id=100079776026065" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100079776026065" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
   
 </p>
