@@ -1,6 +1,6 @@
 ## To Make Better Tommorow 👨‍💻
 
-[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369)](https://github.com/anuraghazra/github-readme-stats)
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Things I Code With
 <p>
