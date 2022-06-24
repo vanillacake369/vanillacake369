@@ -1,12 +1,12 @@
-## 오늘의 내가 더 나은 내일을 만들어나갈 수 있기를 👋
+## To Make Better Tommorow 👨‍💻
 
 [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369)](https://github.com/anuraghazra/github-readme-stats)
 
-### Things I Code With
+### 💻 Things I Code With
 <p>
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -18,10 +18,14 @@
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-### Interest
+### 🚩 Ongoing Projects
+<ul>
+  <li><a herf="https://vanillacake369.notion.site/JavaScript-9bda09cd3fc3426da577534eca8d5b57">JavaScript</a><i>모던 자바스크립트 입문 -이소 히로지</i></li>
+  <li><a herf="https://vanillacake369.notion.site/Laravel-6713e93313b6459ca60769723ba22604">Laravel</a><i>라라벨로 배우는 실전 PHP 웹 프로그래밍</i></li>
+  <li><a herf="https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725">NGN Web Homepage</a></li>
+</ul>
 
-
-### Projects
+### 📫 How to reach me
 
 
 <!--
