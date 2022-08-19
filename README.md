@@ -20,7 +20,7 @@
 
 ### 🚩 Ongoing Projects
 <ul>
-  <li><a herf="https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246">안방 창업 동아리 프로젝트</a><br/></li>
+  <li><a herf="https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246">Link</a><i>안방 창업 동아리 프로젝트</i><br/></li>
   <li><a herf="https://vanillacake369.notion.site/U20-SRS-Front-2db3f2de59b442adbfe4e8b052d96191"><i>U20 육상경기 종합정보시스템 개발</i></a><br/></li>
   <li><a herf="https://vanillacake369.notion.site/f043e622b8a746d9b1c669c367a72ae9?v=1da87e3e39374d909c383934504bc040"><i>Node.js교과서 - 제로초</i></a><br/></li>
   <li><a herf="https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725">NGN Web Homepage</a></li>
