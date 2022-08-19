@@ -10,21 +10,19 @@
 <p>
   <img alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="PHP" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img alt="Visual Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
 ### 🚩 Ongoing Projects
 <ul>
-  <li><a herf="https://vanillacake369.notion.site/JavaScript-9bda09cd3fc3426da577534eca8d5b57">JavaScript</a><br/><i>모던 자바스크립트 입문 -이소 히로지</i></li>
-  <li><a herf="https://vanillacake369.notion.site/Laravel-6713e93313b6459ca60769723ba22604">Laravel</a><br/><i>라라벨로 배우는 실전 PHP 웹 프로그래밍</i></li>
+  <li><a herf="https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246"><i>안방 창업 동아리 프로젝트</i></a><br/></li>
+  <li><a herf="https://vanillacake369.notion.site/U20-SRS-Front-2db3f2de59b442adbfe4e8b052d96191"><i>U20 육상경기 종합정보시스템 개발</i></a><br/></li>
+  <li><a herf="https://vanillacake369.notion.site/f043e622b8a746d9b1c669c367a72ae9?v=1da87e3e39374d909c383934504bc040"><i>Node.js교과서 - 제로초</i></a><br/></li>
   <li><a herf="https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725">NGN Web Homepage</a></li>
 </ul>
 
