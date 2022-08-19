@@ -16,15 +16,14 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="Visual Code" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img alt="Notion" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
 ### 🚩 Ongoing Projects
-<ul>
-  <li><a herf="https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246">안방 창업 동아리 프로젝트</a><br/></li>
-  <li><a herf="https://vanillacake369.notion.site/U20-SRS-Front-2db3f2de59b442adbfe4e8b052d96191">Link</br></a><i>U20 육상경기 종합정보시스템 개발</i><br/></li>
-  <li><a herf="https://vanillacake369.notion.site/f043e622b8a746d9b1c669c367a72ae9?v=1da87e3e39374d909c383934504bc040"><i>Node.js교과서 - 제로초</i></a><br/></li>
-  <li><a herf="https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725">NGN Web Homepage</a></li>
-</ul>
+- [안방 창업 동아리 프로젝트][https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246]
+- [U20 육상경기 종합정보시스템 개발][https://vanillacake369.notion.site/U20-SRS-Front-2db3f2de59b442adbfe4e8b052d96191]
+- [Node.js교과서 - 제로초][https://vanillacake369.notion.site/f043e622b8a746d9b1c669c367a72ae9?v=1da87e3e39374d909c383934504bc040]
+- [NGN Web Homepage][https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725]
 
 ### 📫 How to reach me
 <p>
