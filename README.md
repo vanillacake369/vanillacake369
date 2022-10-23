@@ -19,11 +19,16 @@
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </p>
 
+### 🏷 Completed Projects
+- [NGN Web Homepage](https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725)
+- [농기계/기술 중거래 플랫폼](https://github.com/hwang-won/osef)
+
 ### 🚩 Ongoing Projects
 - [안방 창업 동아리 프로젝트](https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246)
 - [U20 육상경기 종합정보시스템 개발](https://vanillacake369.notion.site/U20-SRS-Front-2db3f2de59b442adbfe4e8b052d96191)
 - [Node.js교과서 - 제로초](https://vanillacake369.notion.site/f043e622b8a746d9b1c669c367a72ae9?v=1da87e3e39374d909c383934504bc040)
 - [NGN Web Homepage](https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725)
+- [농기계/기술 중거래 플랫폼](https://github.com/hwang-won/osef)
 
 ### 📫 How to reach me
 <p>
