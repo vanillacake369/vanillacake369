@@ -21,7 +21,7 @@
 
 ### 🏷 Completed Projects
 - [NGN Web Homepage](https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725)
-- [농기계/기술 중거래 플랫폼](https://github.com/hwang-won/osef)
+- [농기계/기술 임대 플랫폼](https://github.com/hwang-won/osef)
 
 ### 🚩 Ongoing Projects
 - [안방 창업 동아리 프로젝트](https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246)
