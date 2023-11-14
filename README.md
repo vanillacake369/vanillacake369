@@ -20,13 +20,11 @@
 </p>
 
 ### 🏷 Completed Projects
-- [NGN Web Homepage](https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725)
 - [농기계/기술 임대 플랫폼](https://github.com/hwang-won/osef)
 
 ### 🚩 Ongoing Projects
-- [안방 창업 동아리 프로젝트](https://vanillacake369.notion.site/1e50c07e9e72411b8d9115cdb8308246)
+- [데이트아누](https://github.com/vanillacake369/dateanu)
 - [U20 육상경기 종합정보시스템 개발](https://vanillacake369.notion.site/vanillacake369/U20-2a2b6921ed4d49d28aa779dc27036cd0)
-- [NGN Web Homepage](https://vanillacake369.notion.site/NGN-Homepage-Prj-0c08243113314c06b6d37fc1622d7725)
 
 ### 📫 How to reach me
 <p>
