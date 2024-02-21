@@ -20,11 +20,11 @@
 </p>
 
 ### 🏷 Completed Projects
+- [U20 육상경기 종합정보시스템 개발](https://github.com/vanillacake369/u20_dj)
 - [농기계/기술 임대 플랫폼](https://github.com/hwang-won/osef)
 
 ### 🚩 Ongoing Projects
-- [데이트아누](https://github.com/vanillacake369/dateanu)
-- [U20 육상경기 종합정보시스템 개발](https://vanillacake369.notion.site/vanillacake369/U20-2a2b6921ed4d49d28aa779dc27036cd0)
+- [기프티콘 계의 크림! 기프티콘 중고입찰거래 플랫폼 Gream](https://github.com/Team-BC-1/gream)
 
 ### 📫 How to reach me
 <p>
