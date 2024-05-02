@@ -27,6 +27,7 @@
 
 ### 🚩 Ongoing Projects
 - [기프티콘 계의 크림! 기프티콘 중고입찰거래 플랫폼 Gream](https://github.com/Team-BC-1/gream)
+- [화상회의 및 원격 작업 플랫폼](https://github.com/kSideProject/kpring)
 
 ### 📫 How to reach me
 <p>
