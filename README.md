@@ -3,6 +3,8 @@
   [![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
+[![Tony's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanillacake369&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 💻 Things I Code With
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
